@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title> CV Muhammad Ad-Durroh Mubarok</title>
+</head>
+<body style="margin-right:100px;margin-left: 100px;text-align: justify-all;"></bodybgcolor>>
+    <center>
+    <h1> MUHAMMAD AD-DURROH MUBAROK </h1>
+    <h4>Mahasiswa STT Terpadu STT Tepadu Nurul Fikri 2020</h4>
+    <img src="Muhammad Ad-Durroh Mubarok STTNF 2020 Sistem Informasi.jpeg" width="100px" height="150px">
+    <hr>
+    <hr>
+    <h3>DATA PRIBADI</h3><hr>
+    <table>
+        <tr><td><img src="WhatsApp Image 2020-10-07 at 09.25.44.jpeg" weight="150px" height="150px"></td>
+            <td><ul type="square">
+
+                <li>Nama 	: Muhammad Ad-Durroh Mubarok</li>
+                <li>TTL  	: Jakarta, 08 Maret 2001</li>
+                <li>Umur 	: 19 tahun</li>
+                <li>Alamat 	: Jl Telkom no 2 Kebon Baru, Tebet Jakarta selatan </li>
+                <li>Nomor telp. : 0895360716530</li>
+                <li>Email : <a href="mailto:muha20117si@studentnurulfikri.ac.id" target="_blank">muha20117si@studentnurulfikri.ac.id</a></li>
+                <li>Github : <a href="https://github.com/addurroh" target="_blank">addurroh</a> </li>
+                <li>linkedin : <a href="https://www.linkedin.com/in/muhammad-ad-durroh-mubarok-48b76b1b6/" target="_blank">Muhammad Ad Durroh Mubarok</a></li>
+                <li>Istagram : <a href="https://www.instagram.com/ad_durroh/" target="_blank">ad_durroh</a></li>
+                <li>No.Telp & Whatsapp : <a href="https://api.whatsapp.com/send?phone=62895360716530" target="_blank">62895360716530</a></li>
+                </ul>
+            </td>
+        </tr>
+    </table><hr>
+
+    <h3>PROFIL</h3><hr>
+    <p>Saya merupakan Spesialis Acara dan Manajer Proyek yang sangat terampil dan berpengetahuan luas, menghadirkan acara keahlian dan pengalaman
+        perencana. Mahir dalam memberikan kepemimpinan dan manajemen yang efektif yang berpengaruh dalam tim, dan
+        acara program. Berkomitmen untuk mendukung pengembangan program acara utama yang dihasilkan dengan
+        peserta pengalaman terbaik
+        
+    <br>
+    <br>
+    <hr>
+    <h3>PENGALAMAN KERJA</h3><hr>
+    <ul type="circle"></ul>
+    <table>
+        <tr><td>
+            <li>Event (Moderator)-Info Session DSC - Developer Student Clun Nurul Fikri - Online - Oktober 2020 </li>
+            <li> Logisitc Coordinator - Usage of Cloud Infrastructure & SDLC Indcluding CI/CD Meetup- Ekipa - Jakarta -
+            Januari 2020</li>
+            <li>ACARA- FESTIVAL GOTONG ROYONG BANGUN PENDIDIKAN- Eduffold.id- Online- Oktober 2020</li>
+            <li>Mitra Pelatihan - Pelatihan Sphere dan Logitik - Human Initaitve - Depok- Maret 2020</li>
+            <li>Crew - Start Up Weekend Indonesia BSD - Kumpul.id - BSD - Desember 2019 </li>
+            <li>Admin - Tech In Asia Tanggerang Selatan- Impactprenuer -Prasmul Universty- Desember 2019 </li>
+            <li>Mentor Design Graphic - BLK - Wahid Foundation x ILO - Jakarta - Desember 2019</li>
+            <li>Ketua Acara - Gathering Ketua Osis Se Jawa Barat 2019- Forum Osis Jawa Barat - Bandung- Januari 2019</li>
+            <li>Fasilitator - Gain Your Potensial Super Camp - Pemuda Peduli - Bandung - Mei 2019</li>
+            <li>Koordinator Logistik - SPLASH Regenerasi FOJB - Forum Osis Jawa Barat x Telkom Universty- Bandung -
+            Juli 2019</li>
+            <li>Lasion Officer -Workshop kita Kerja.com-Kita Kerja.com- /Jakarta - April 2019</li>
+            <li>Fasilitator - SANLAT Perumahan Depok - BEE WHITE MANAGEMENT - Depok - April 2019</li><hr>
+        </tr></td>
+    </table>
+    <h3>PENGALAMAN ORGANISASI</h3><hr>
+    <ul type="circle"></ul>
+    <table>
+        <tr><td>
+            <li>PENGURUS OSIS SMPIT UMMUL QURO BOGOR 2013/2014–K3</li>
+            <li>PENGURUS MPK SMAIT UMMUL QURO BOGOR 2016/2017 –Badan Legislatif</li>
+            <li>PENGURUS OSIS SMAIT UMMUL QURO BOGOR 2017/2018 – Wirausaha (Fundraising)</li>
+            <li>PENGURUS FORUM OSIS JAWA BARAT GEN 6 2018/2019–Koordinator Wilayah 2 Kota Bogor dan Kota
+        Depok</li>
+            <li>PENGURUS Indonesia Juara Emas Jawa Barat 2020/Sekarang –PROGRAMMER</li>
+            <li>CORE TEAM DEVELOPMENT STUDENT CLUB 2020/2021- Event & Patnership
+            <li>Hult Prize Nurul Fikri - Patnership/ Sponsorship</li>
+         </tr></td>
+    </table><hr>
+
+    
+    <h3>PENDIDIKAN FORMAL</h3><hr>
+    <table border="2" cellpadding="2" cellspacing="2px" bordercolor="black">
+        <tr align="center" >
+            <td><b>Nomor</b></td>
+            <td><b>Nama Sekolah</b></td>
+            <td><b>Jurusan</b></td>
+            <td><b>Tahun Lulus</b></td>
+        </tr>
+        <tr>
+            <td>1.</td>
+            <td>Sekolah Tinggi Teknologi Terpadu Nurul Fikri</td>
+            <td>Sistem Informasi</td>
+            <td>2020-Sekarang</td>
+        </tr>
+        <tr>
+            <td>2.</td>
+            <td>SMA ISLAM TERPADU UMMUL QURO BOGOR </td>
+            <td>IPA</td>
+            <td>2016-2019</td>
+        </tr>
+        <tr>
+            <td>3.</td>
+            <td>SMP ISLAM TERPADU UMMUL QURO BOGOR</td>
+            <td>-</td>
+            <td>2013-2016</td>
+        </tr>
+        <tr>
+            <td>4.</td>
+            <td>SD ISLAM TERPADU DINAMIKA</td>
+            <td>-</td>
+            <td>2006-2013</td>
+        </tr>
+    </table>
+            <br>
+    <h3>PENDIDIKAN INFORMAL</h3><hr>
+    <table border="2" cellpadding="2" cellspacing="2px" bordercolor="black">
+        <tr align="center" >
+            <td><b> Sertifikasi : School Of Trainer and Motivator Indonesia - C.STMi</b></td>
+            <td><b>FORUM OSIS JAWA BARAT </b></td>
+            <td><b>TREENSPIRA ACADEMY</b></td>
+            <td><b>Rumah Peradaban Pelajar Indonesia</b></td>
+            <td><b>Student Care</b></td>
+            <td><b>Akademi Pemimpin Muda Islam</b></td>  
+
+        </tr>
+    </table>
+    <br>
+    <br>
+    
+    </ul>
+    <h3>KETERAMPILAN</h3><hr>
+    </ul>
+    <ul>
+        <table>
+            <tr><td>
+                <li>Event Orgnizer</li>
+                <li>Project management</li>
+                <li>Public Speaking </li>
+                <li>Leadership</li>
+                <li>Organizatinal skill</li>
+                <li>Self Esteem</li>
+                <li>Service Orientied</li>
+                <li>Marketing</li>
+                <li>Desain Graphic</li>
+                <li>Video Editor</li> 
+                <li>Digital ContentCreative</li> 
+                <li>Microsoft Office (Word, Excel, Power Point)	</li>
+                <li>Bahasa Inggris</li>
+                <li>Mampu berkomunikasi dengan baik</li>
+                <li>Junior Web Programer (HTML )</li>
+                <li>mampu bekerja baik individu maupun tim</li>
+            </tr></td>
+        </table>
+    </ul>
+    <br>
+    <br>
+
+    <h3>PIAGAM & SERTIFIKAT</h3><hr>
+    <table><tr><td>
+            <a href="https://drive.google.com/file/d/16NvR82ZeQwOPEV9y8Mm2eclSjgRAB48G/view?usp=sharing" target="_blank">Sertifikasi C.STMI</a>
+        ,
+            <a href="https://drive.google.com/file/d/1A_UEFnExvy-XJsId4SpDWUPHAEG-jfjk/view?usp=sharing" target="_blank">Sertifikat IJE</a>
+        ,
+            <a href="https://drive.google.com/file/d/1YBWvMexeXEHdiUbQiy8szZFMyC5qV_SL/view?usp=sharing" target="_blank">Sertifikat  FOJB</a>
+        ,
+            <a href="https://drive.google.com/file/d/1Gf3SeuipNElS9AWChzwYjJN50sPumFLj/view?usp=sharing" target="_blank">Sertifikat OSIS</a>
+        ,
+            <a href="https://drive.google.com/file/d/1yG9o_L6bekK3QMMc_HU-g7AUCz3maf_O/view?usp=sharing" target="_blank">Sertifikat MPK</a>
+        ,
+            <a href="https://drive.google.com/file/d/1eltY2o_HgEk1i4ULOgihWYg3TI68rLK9/view?usp=sharing" target="_blank">Sertifikat Panitia Koordinator Acara Gathering Ketua OSIS Jawa Barat</a>
+        ,
+            <a href="https://drive.google.com/file/d/16q4RAbG_T1A4I04HI9U_KDcCitV5asVx/view?usp=sharing" target="_blank">Sertifikat Panitia SPLAS (FOJB X Telkom Universty</a>
+        ,
+            <a href="https://drive.google.com/file/d/1Q2uhuUEDDPw1Fq1iPEt2fxo0ppAI3CZC/view?usp=sharing" target="_blank">Coordinartor Logistic-Sertifikat EKIPA</a>
+        ,
+            <a href="https://drive.google.com/file/d/1MNwPrNTmAGAeUOGWy_yK-H1Tpb-cNWs7/view?usp=sharing" target="_blank">One Day Trainig Student council West Java</a>    
+        ,
+            <a href="https://drive.google.com/file/d/1yg83uUIviFzrGZaFfB2Cj31jZMXDm-WC/view?usp=sharing"target="_blank" >Peserta Festval Pelajar </a>
+
+    </table></tr></td>
+</body>
+</html>
