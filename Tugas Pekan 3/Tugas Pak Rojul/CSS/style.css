@@ -1,0 +1,107 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+body {
+    margin:0;
+    font-family: Arial, "Helvetica Neue", 
+    Helvetica, sans-serif;
+    font-size:17ppx;
+
+}
+
+#showcase{
+  margin:0;
+  justify-content: center;
+    padding:0;
+    background-image:url('../img/pexels-andrea-piacquadio-3771097.jpg');
+    background-size:cover;
+    background-position:center;
+    height:100vh;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+    text-align: center;
+    padding: 0 20px;
+}
+#showcase h1{ 
+  font-size:50px;
+  font-family: sugeo;
+  line-height: 1.2;
+}
+#showcase p{
+font-size: 20px
+font-family:sugeo;
+}
+#showcase .button{
+    font-size: 18px;
+    text-decoration: none;
+    color:aliceblue;
+    border:aliceblue 1px solid;
+    padding: 10px 20px;
+    border-radius: 10px;
+    margin-top: 30px;
+  }
+#showcase .button:hover{
+
+  background:#2d3436;
+  color:aliceblue;
+}
+#section-a{
+  padding: 20px;
+  background-color: aliceblue;
+  color: #2d3436;
+  text-align: center;
+}
+#section-b{
+  padding: 20px;
+  background-color: #2d3436;
+  color: aliceblue;
+  text-align: center;
+}
+#section-c {
+  display: flex;
+}
+#section-c .box-1, #section-c .box-3{
+  background:#2d3436;
+  color: aliceblue;
+}
+ 
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color: #111;
+    height:100vh;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+  }
+
+h1{
+  font-size: large 10px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+
+  
+  
+  li {
+    float: right;
+  }
+  
+  li a {
+
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+ 
